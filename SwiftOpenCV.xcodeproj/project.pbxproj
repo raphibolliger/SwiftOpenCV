@@ -227,6 +227,7 @@
 		3BBEA97A19FFCBCD00282ACD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = WhitneyLand;
 				TargetAttributes = {
@@ -496,6 +497,7 @@
 				3BBEA9A319FFCBCE00282ACD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3BBEA9A419FFCBCE00282ACD /* Build configuration list for PBXNativeTarget "SwiftOpenCVTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				3BBEA9A619FFCBCE00282ACD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
